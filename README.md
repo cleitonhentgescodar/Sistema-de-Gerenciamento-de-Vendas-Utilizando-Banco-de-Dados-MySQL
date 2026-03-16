@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Vendas utilizando MySQL
 
-Este projeto consiste no desenvolvimento de um **banco de dados relacional utilizando MySQL**, criado como **iniciativa de aprendizado prático em Sistemas de Gerenciamento de Banco de Dados (SGBD)**.
+Este projeto consiste no desenvolvimento de um **banco de dados relacional utilizando MySQL**, criado como **iniciativa de aprendizado prático em Sistemas de Gerenciamento de Banco de Dados (Mysql)**.
 
 O objetivo do projeto é aplicar conceitos fundamentais de **modelagem de dados, estruturação de bancos relacionais e consultas SQL**, simulando o funcionamento de um sistema de vendas de uma loja comercial.
 
