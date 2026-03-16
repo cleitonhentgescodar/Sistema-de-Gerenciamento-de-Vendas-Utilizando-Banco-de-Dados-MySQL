@@ -1,0 +1,1 @@
+# Sistema-de-Gerenciamento-de-Vendas-Utilizando-Banco-de-Dados-MySQL
